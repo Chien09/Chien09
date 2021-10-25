@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 
 - 🥅 
-- ⚡ Fun fact: 
+- ⚡ 
 
 ### Connect with me:
 
@@ -17,7 +17,14 @@
 
 <br />
 
-### Languages and Tools:
+### Programming Languages and Tools:
+
+- Java, Python, Swift, SQL (MySQL), JavaScript
+- HTML, CSS, JSON, HTTP, REST API, TCP/IP, UML, JUnit
+- IntelliJ, VS Code, Xcode, Anroid Studio, Eclipse
+- Django, Heroku
+- Jira, Trello, Perforce
+- Git, GitHub 
 
 <br />
 
