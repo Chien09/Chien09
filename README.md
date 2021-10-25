@@ -4,13 +4,11 @@
 
 ## I'm a recent graduate in Master's of Software Engineering program from DePaul University! 
 
-- 🔭 
-- 🌱 I’m currently learning everything 🤣
-- 👯 
-- 🥅 
-- ⚡ 
+- 🌱 I’m currently learning everything I can in enhancing my knowledge/skills and expanding my techincal stack
+- 👯 Self-Motivated 
+- ⚡ Fun Fact --> I love table tennis and dogs 
 
-### Connect with me:
+### Social Media:
 
 [<img align="left" alt="Chien09 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Chien09 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
