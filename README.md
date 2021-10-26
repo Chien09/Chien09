@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything I can in enhancing my knowledge/skills and expanding my techincal stack
 - 👯 Self-Motivated 
-- ⚡ Fun Fact --> I love table tennis and dogs 
+- ⚡ Fun Fact --> I have interests in table tennis, basketball, and dogs 
 
 ### Social Media:
 
