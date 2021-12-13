@@ -11,7 +11,7 @@
 ### Social Media:
 
 [<img align="left" alt="Chien09 | LinkedIn" width="22px" src="linkd.png" />][linkedin]
-[<img align="left" alt="Chien09 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Chien09 | Instagram" width="22px" src="ig.png" />][instagram]
 
 <br />
 
