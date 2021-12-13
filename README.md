@@ -1,6 +1,6 @@
 # Chien09
  
-### Hi there, I'm Chien-Liang (Jack) 👋
+### Hi there, I'm Krittidet Liu (Jack) and also refered to as Chien-Liang Liu 👋 
 
 ## I'm a recent graduate in Master's of Software Engineering program from DePaul University! 
 
@@ -21,8 +21,8 @@
 - HTML, CSS, JSON, HTTP, REST API, TCP/IP, UML, JUnit
 - IntelliJ, VS Code, Xcode, Anroid Studio, Eclipse
 - Django, Heroku
-- Jira, Trello, Perforce
-- Git, GitHub 
+- Jira, Trello
+- Git, GitHub, Perforce 
 
 <br />
 
