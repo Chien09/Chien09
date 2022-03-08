@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything I can in enhancing my knowledge/skills and expanding my techincal stack
 - 👯 Self-Motivated 
-- 💡 I have interests in table tennis, basketball, dogs, video games, food, and technology devices.  
+- 💡 I have interests in table tennis, basketball, dogs, food, and technology devices.  
 -  ⚡ Fun Fact --> Cotton candy was invented by a dentist.
 
 ### Social Media:
