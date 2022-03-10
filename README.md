@@ -2,11 +2,11 @@
  
 ### Hi there, I'm Krittidet Liu (Jack) and also refered to as Chien-Liang Liu 👋 
 
-## I'm a recent graduate in Master's of Software Engineering program from DePaul University! 
+## I'm a new graduate in Master's of Software Engineering program from DePaul University! 
 
 - 🌱 I’m currently learning everything I can in enhancing my knowledge/skills and expanding my techincal stack
 - 👯 Self-Motivated 
-- 💡 I have interests in table tennis, basketball, dogs, food, and technology devices.  
+- 💡 I have interests in table tennis, badminton, basketball, free dive, dogs, food, and technology devices.  
 -  ⚡ Fun Fact --> Cotton candy was invented by a dentist.
 
 ### Social Media:
