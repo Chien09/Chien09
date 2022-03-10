@@ -16,7 +16,7 @@
 
 <br />
 
-### Programming Languages and Tools:
+### Programming Languages, tools, and programming concepts that I have experienced with from projects and the master's program:
 
 - Java, Python, Swift, SQL (MySQL), JavaScript
 - HTML, CSS, JSON, HTTP, REST API, TCP/IP, UML, JUnit
