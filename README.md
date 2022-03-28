@@ -12,7 +12,6 @@
 ### Social Media:
 
 [<img align="left" alt="Chien09 | LinkedIn" width="22px" src="linkd.png" />][linkedin]
-[<img align="left" alt="Chien09 | Instagram" width="22px" src="ig.png" />][instagram]
 
 <br />
 
@@ -31,5 +30,4 @@
 
 ---
 
-[instagram]: https://instagram.com/candypopcoke
 [linkedin]: https://linkedin.com/in/chienliangliujack
