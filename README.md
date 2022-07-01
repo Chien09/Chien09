@@ -17,14 +17,14 @@
 
 ### Programming Languages, tools, and programming concepts that I have experienced with from projects and the master's program:
 
--Java, Python, Swift, SQL (MySQL), JavaScript
--HTML, CSS, Bootstrap, JSON, jQuery, HTTP, Restful API, CRUD, TCP/IP, UML Diagram, JUnit
--MongoDB, node.js 
--OOP, SOLID principles, Design Patterns, Multithreading, Agile Development
--IntelliJ, VS Code, Xcode, Android Studio, Eclipse, Adobe XD (WireFrame), Postman
--Django, React, Heroku
--Jira, Trello, Perforce
--Git, GitHub
+- Java, Python, Swift, SQL (MySQL), JavaScript
+- HTML, CSS, Bootstrap, JSON, jQuery, HTTP, Restful API, CRUD, TCP/IP, UML Diagram, JUnit
+- MongoDB, node.js 
+- OOP, SOLID principles, Design Patterns, Multithreading, Agile Development
+- IntelliJ, VS Code, Xcode, Android Studio, Eclipse, Adobe XD (WireFrame), Postman
+- Django, React, Heroku
+- Jira, Trello, Perforce
+- Git, GitHub
 
 <br />
 
